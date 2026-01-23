@@ -1,6 +1,6 @@
 # Selam, Ben İsmail! 👋
 
-iOS, Android ve Web dünyasında edindiğim tecrübelerle, kullanıcı dostu ve yüksek performanslı dijital çözümler üretiyorum. Favori teknolojim **React Native** olsa da, **Flutter** ile modern arayüzler geliştirmeyi de çok seviyorum.
+iOS, Android ve Web dünyasında edindiğim tecrübelerle, kullanıcı dostu ve yüksek performanslı dijital çözümler üretiyorum. Favori teknolojilerim **React** ve **React Native** olsa da, **Flutter** ile modern arayüzler geliştirmeyi de çok seviyorum.
 
 ---
 
