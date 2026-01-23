@@ -27,7 +27,7 @@ iOS, Android ve Web dünyasında edindiğim tecrübelerle, kullanıcı dostu ve 
 Profesyonel ağım üzerinden veya e-posta ile iletişime geçebilirsiniz:
 
 - 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ismailcelik/)
-- 📧 [E-posta Gönder](mailto:ismailcelik@example.com) - 🌐 [Kişisel Web Sitem](https://ismailcelik.my-style.in/)
+- 📧 [E-posta Gönder](mailto:ismailceliktr00@gmail.com) - 🌐 [Kişisel Web Sitem](https://ismailcelik.my-style.in/)
 
 ---
 
