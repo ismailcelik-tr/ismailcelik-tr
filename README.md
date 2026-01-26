@@ -1,6 +1,6 @@
 # Selam, Ben İsmail! 👋
 
-iOS, Android ve Web dünyasında edindiğim tecrübelerle, kullanıcı dostu ve yüksek performanslı dijital çözümler üretiyorum. Favori teknolojilerim **React** ve **React Native** olsa da, **Flutter** ile modern arayüzler geliştirmeyi de çok seviyorum.
+iOS, Android ve Web dünyasında edindiğim tecrübelerle, kullanıcı dostu ve yüksek performanslı dijital çözümler üretiyorum. Favori teknolojilerim **React** ve **React Native** olsa da **Flutter** ile modern arayüzler geliştirmeyi de çok seviyorum.
 
 ---
 
@@ -26,8 +26,9 @@ iOS, Android ve Web dünyasında edindiğim tecrübelerle, kullanıcı dostu ve 
 
 Profesyonel ağım üzerinden veya e-posta ile iletişime geçebilirsiniz:
 
+- 📧 [E-posta Gönder](mailto:ismailceliktr00@gmail.com)
 - 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ismailcelik/)
-- 📧 [E-posta Gönder](mailto:ismailceliktr00@gmail.com) - 🌐 [Kişisel Web Sitem](https://ismailcelik.my-style.in/)
+- 🌐 [Kişisel Web Sitem](https://ismailcelik.my-style.in/)
 
 ---
 
