@@ -6,9 +6,9 @@ iOS, Android ve Web dünyasında edindiğim tecrübelerle, kullanıcı dostu ve 
 
 ### 🚀 Hakkımda
 - 📱 **Mobil Uzmanlık:** hem Native hem de Cross-Platform projelerde aktif rol.
-- 💡 **Odak Noktam:** Temiz kod (Clean Code), performans optimizasyonu ve kusursuz kullanıcı deneyimi (UX).
+- 💡 **Odak Noktam:** Temiz kod, performans optimizasyonu ve kusursuz kullanıcı deneyimi (UX).
 - 🌍 **Lokasyon:** Ankara, Türkiye.
-- 🌱 **Şu an:** Yeni nesil mobil teknolojiler, sistem mimarileri, AI, veri bilimi ve drone sistemleri üzerine çalışıyorum.
+- 🌱 **Şu an:** Yeni nesil mobil teknolojiler, sistem mimarileri, AI ve veri bilimi üzerine çalışıyorum.
 
 ---
 
