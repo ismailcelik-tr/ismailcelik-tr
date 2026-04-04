@@ -51,7 +51,3 @@
 <a href="https://linkedin.com/in/ismailcelik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail celik" height="30" width="40" /></a>
 <a href="https://ismailcelik.my-style.in/" target="blank"><img align="center" src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30" /></a>
 </p>
-
-<p align="center">
-  <i>© 2026 Ismail Celik - Coded with Passion.</i>
-</p>
