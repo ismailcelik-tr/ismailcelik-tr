@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35">, I'm Ismail!</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35">, I'm İsmail!</h1>
 <h3 align="center">Mobile & Fullstack Developer | AI & Data Science Enthusiast</h3>
 
 - 📱 **Mobile Expertise:** Crafting high-performance solutions with **React Native**, **Flutter**, and Native technologies (**Swift/Kotlin**).
