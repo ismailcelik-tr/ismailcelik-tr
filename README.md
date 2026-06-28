@@ -34,19 +34,6 @@ I build reliable web and mobile experiences, connect AI into real workflows, and
 
 ---
 
-### 🧩 Selected Projects & Ongoing Work
-
-| Project | Focus |
-|---|---|
-| Gemini RAG Knowledge Assistant | Gemini API, FastAPI, vector search, RAG architecture |
-| Factory RAG Assistant | Searchable AI workflows for operational/factory documents |
-| Netelsan Cloud | Mobile cloud experience for iOS and Android users |
-| Netelsan Burglar Alarm System | Production mobile alarm monitoring and management |
-| PCB Anomaly Detection System | Computer vision pipeline for production quality checks |
-| Remote Alarm Monitoring Software | Web monitoring interface for realtime operational visibility |
-
----
-
 ### 🛠 Tech Stack
 
 <p align="center">
