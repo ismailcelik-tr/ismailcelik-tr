@@ -37,7 +37,7 @@ I build reliable web and mobile experiences, connect AI into real workflows, and
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,nestjs,flutter,dart,swift,kotlin,java,spring,python,fastapi,go,rust,zig,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,redis,nginx,prometheus,grafana,pytorch,tensorflow,git,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,nestjs,flutter,dart,swift,kotlin,java,spring,python,fastapi,go,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,redis,nginx,prometheus,grafana,pytorch,git,githubactions&theme=dark" />
 </p>
 
 ---
