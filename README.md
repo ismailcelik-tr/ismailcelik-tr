@@ -19,11 +19,6 @@
 </p>
 
 ---
-### 🧭 Product-Minded Engineering
-
-I build reliable web and mobile experiences, connect AI into real workflows, and care about the systems work that keeps products fast, maintainable, and useful.
-
----
 
 ### 🎯 Current Focus
 
